@@ -1,0 +1,1 @@
+Informes generados con HTML, PDF, LaTeX, etc.
